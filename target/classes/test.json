@@ -1,0 +1,26 @@
+{
+  "modeles": [
+    {
+      "modele": {
+        "meta_title": "Peugeot 208",
+        "available_later": "",
+        "info_prix": "",
+        "info_3": null,
+        "info_4": null,
+        "available_now": "",
+        "description": null,
+        "info_1": null,
+        "info_2": null,
+        "meta_keywords": "peugeot 208",
+        "info_5": null,
+        "meta_description": "Peugeot 208",
+        "id_lang": "4",
+        "description_short": "<pre>Peugeot 208<\/pre>",
+        "id_product": "9",
+        "name": "208",
+        "id_shop": "1",
+        "link_rewrite": "208"
+      }
+    }
+  ]
+}
